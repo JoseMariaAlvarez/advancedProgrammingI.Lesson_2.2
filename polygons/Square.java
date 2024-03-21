@@ -1,7 +1,5 @@
 package polygons;
 
-import java.util.ArrayList;
-
 public class Square extends Polygon {
 
 	public Square(Point[] vs) {

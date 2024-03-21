@@ -1,7 +1,5 @@
 package polygons;
 
-import java.util.ArrayList;
-
 public abstract class Polygon {
 	protected final Point[] vertices;
 	
